@@ -43,7 +43,7 @@ def processFile():
     # root = Tk()
 
     # The filetypes *IN TCL FORMAT*
-    filetypes = "{{txt files} *.txt} {{all files} *}"
+    filetypes = "{{all files} *}"
 
     # The actual call; note that that that's a very unusual command name by Tcl standards!
     # 
