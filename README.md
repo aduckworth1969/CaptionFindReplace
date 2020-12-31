@@ -1,0 +1,3 @@
+# Caption Find and Replace
+
+The Caption Find and Replace application finds consistently mis-spelled/mis-understood words from computer generated caption files (from Zoom, WebEx or other tools) and replaces them with corrected words. Using a user-generated .csv file the application creates a dictionary of consistently mis-spelled/mis-understood words and their corresponding correct words. The user then selects a caption file to process. The application uses the uploaded word list to find and replace any of the incorrect words found in the caption file. This application was written with closed caption files in mind but could be used on any text file.
